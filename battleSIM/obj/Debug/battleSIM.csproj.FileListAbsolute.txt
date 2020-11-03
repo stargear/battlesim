@@ -1,0 +1,60 @@
+C:\Users\Philipp\Desktop\projekte qantm\battleSimulation\battleSIM\bin\Debug\battleSIM.exe.config
+C:\Users\Philipp\Desktop\projekte qantm\battleSimulation\battleSIM\bin\Debug\battleSIM.exe
+C:\Users\Philipp\Desktop\projekte qantm\battleSimulation\battleSIM\bin\Debug\battleSIM.pdb
+C:\Users\Philipp\Desktop\projekte qantm\battleSimulation\battleSIM\obj\Debug\battleSIM.csprojAssemblyReference.cache
+C:\Users\Philipp\Desktop\projekte qantm\battleSimulation\battleSIM\obj\Debug\battleSIM.exe
+C:\Users\Philipp\Desktop\projekte qantm\battleSimulation\battleSIM\obj\Debug\battleSIM.pdb
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\battleSIM.exe.config
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\battleSIM.exe
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\battleSIM.pdb
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\obj\Debug\battleSIM.csprojAssemblyReference.cache
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\obj\Debug\battleSIM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\obj\Debug\battleSIM.exe
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\obj\Debug\battleSIM.pdb
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\00_beginn_game.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\01_character_creation.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\02_gameover.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\att_dagger.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\att_mace.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\att_staff.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\att_sword.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\skill_backstab.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\skill_fatalattack.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\skill_missile_exp.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\skill_missile_homing.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\menu_blum.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\menu_click.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\menu_error.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\menu_yes.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\trait_bash.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\trait_bow.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\trait_drain.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\trait_gun_shoot.wav
+C:\Users\User\Desktop\sae_projects\battlesim\battleSIM\bin\Debug\Properties\trait_slingshot.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\00_beginn_game.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\01_character_creation.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\02_gameover.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\att_dagger.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\att_mace.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\att_staff.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\att_sword.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\menu_blum.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\menu_click.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\menu_error.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\menu_yes.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\skill_backstab.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\skill_fatalattack.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\skill_missile_exp.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\skill_missile_homing.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\trait_bash.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\trait_bow.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\trait_drain.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\trait_gun_shoot.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\Properties\trait_slingshot.wav
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\battleSIM.exe.config
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\battleSIM.exe
+D:\_my_Games\Console\battlesim\battleSIM\bin\Debug\battleSIM.pdb
+D:\_my_Games\Console\battlesim\battleSIM\obj\Debug\battleSIM.csprojAssemblyReference.cache
+D:\_my_Games\Console\battlesim\battleSIM\obj\Debug\battleSIM.csproj.CoreCompileInputs.cache
+D:\_my_Games\Console\battlesim\battleSIM\obj\Debug\battleSIM.exe
+D:\_my_Games\Console\battlesim\battleSIM\obj\Debug\battleSIM.pdb
